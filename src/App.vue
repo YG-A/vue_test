@@ -27,6 +27,7 @@ export default {
       let a = 3
       let b = 4
       let d1 = 1
+      let d2 = 2
     }
   },
 }
