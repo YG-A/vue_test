@@ -12,6 +12,11 @@ import School from './components/School.vue'
 
 export default {
   name: 'App',
+  data() {
+    return {
+      num:10
+    }
+  },
   components: {
     HelloWorld,
     School
