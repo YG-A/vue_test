@@ -21,7 +21,12 @@ export default {
   components: {
     HelloWorld,
     School
-  }
+  },
+  methods: {
+    test(){
+      let a = 3
+    }
+  },
 }
 </script>
 
