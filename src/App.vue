@@ -25,6 +25,7 @@ export default {
   methods: {
     test(){
       let a = 3
+      let b = 4
     }
   },
 }
