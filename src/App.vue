@@ -14,7 +14,8 @@ export default {
   name: 'App',
   data() {
     return {
-      num:10
+      num:10,
+      name:'香蕉'
     }
   },
   components: {
